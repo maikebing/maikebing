@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: mysticboy@live.com
 - 💻 I write code mainly in C# and C
-- ⚡ Check my repos, especially [IoTSharp]() and  
+
 
 
 ![Yanhong Ma 's github stats](https://github-readme-stats.vercel.app/api?username=maikebing&count_private=true&show_icons=true)
