@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ![Yanhong Ma's github stats](https://github-readme-stats.vercel.app/api?username=maikebing&count_private=true&show_icons=true)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=maikebing&layout=compact)
+![IoTSharp](https://github-readme-stats.vercel.app/api/pin/?username=iotsharp&repo=iotsharp)
 ![Yanhong Ma's  wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maikebing)|
 
 ### IoTSharp  
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 |  ----  |
 | <img src="https://starchart.cc/IoTSharp/IoTSharp.svg"> |
 
-![IoTSharp](https://github-readme-stats.vercel.app/api/pin/?username=iotsharp&repo=iotsharp)
+
 
 
  
