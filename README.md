@@ -25,15 +25,7 @@ Here are some ideas to get you started:
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=maikebing&layout=compact)
 ![IoTSharp](https://github-readme-stats.vercel.app/api/pin/?username=iotsharp&repo=iotsharp)
 ![Yanhong Ma's  wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maikebing)|
-
-### IoTSharp  
-| [IoTSharp](https://github.com/IoTSharp/IoTSharp) |
-|  ----  |
-| <img src="https://starchart.cc/IoTSharp/IoTSharp.svg"> |
-
-
-
-
+ 
  
 [![Linkedin Yanhong Ma](https://img.shields.io/badge/-Yanhong%20Ma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikebing/)](https://www.linkedin.com/in/maikebing/)
 [![Nuget Yanhong Ma](https://img.shields.io/badge/-MysticBoy-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/MysticBoy)](https://www.nuget.org/profiles/MysticBoy/)
