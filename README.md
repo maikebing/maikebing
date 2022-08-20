@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi 👋, my name is Yanhong Ma and I'm a .NET engineer and an Embedded C engineer.
+### Hi 👋, My name is Yanhong Ma,maikebing , MysticBoy ,麦壳饼 These are my names.
 
 - 📫 How to reach me: mysticboy@live.com
 - 💻 I write code mainly in C# and C
+- 💻 Linux,RT-Thread, .NET nanoFramework
+- 💻 ARM,X86,Loongson,STM32,ESP32... 
+- 💻 IoT and Robotics, Highway ETC. 
 
 
 
