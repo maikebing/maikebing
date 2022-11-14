@@ -36,5 +36,5 @@ My name is **Yanhong Ma** and I do open source for fun.
 [![Linkedin](https://img.shields.io/badge/-Yanhong%20Ma-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikebing/)](https://www.linkedin.com/in/maikebing/)
 [![Nuget](https://img.shields.io/badge/-MysticBoy-blue?style=for-the-badge&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/MysticBoy)](https://www.nuget.org/profiles/MysticBoy/)
 [![GitHub](https://img.shields.io/github/followers/maikebing?label=follow&logo=github&style=for-the-badge)](https://github.com/maikebing)
-[![Twitter](https://img.shields.io/twitter/follow/maikebing?style=for-the-badge&logo=twitter)](https://twitter.com/maikebing)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maikebing)
 
